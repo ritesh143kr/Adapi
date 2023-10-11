@@ -10,5 +10,9 @@
     {
         "Name":"Niacl",
         "Price":120
+    },
+    {
+        "Name":"Orient ltd",
+        "Price":400
     }
 ]
