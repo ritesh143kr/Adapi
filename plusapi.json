@@ -14,5 +14,9 @@
     {
         "Name":"Orient ltd",
         "Price":400
+    },
+    {
+        "Name":"Reliance ltd",
+        "Price":2300
     }
 ]
