@@ -8,9 +8,9 @@
 },
 {
   "id":"2",
-  "Inverted":{
-   "Name":"hammer",
-    "Bearish":"Bearish"
+  "inverted":{
+   "Name":"inverted hammer",
+    "Bearish":"Bullish"
   } 
 }
 ]
