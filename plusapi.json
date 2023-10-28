@@ -1,14 +1,14 @@
 [
 {
   "id":"1",
-  "hammer":{
+  "Class":{
      "Name":"hammer",
      "Bearish":"Bearish"
   }
 },
 {
   "id":"2",
-  "inverted":{
+  "Class":{
    "Name":"inverted hammer",
     "Bearish":"Bullish"
   } 
