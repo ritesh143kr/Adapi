@@ -5,12 +5,5 @@
      "Name":"hammer",
      "Bearish":"Bearish"
   }
-},
-{
-  "id":1,
-  "Class":{
-   "Name":"inverted hammer",
-    "Bearish":"Bullish"
-  } 
 }
 }
