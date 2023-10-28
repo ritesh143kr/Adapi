@@ -1,9 +1,7 @@
-{
-{
-  "id":0,
-  "Class":{
-     "Name":"hammer",
-     "Bearish":"Bearish"
+[
+  {
+     "id":"1",
+      "Name":"Rupesh",
+      "Title":"Kumar"
   }
-}
-}
+]
