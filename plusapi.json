@@ -1,14 +1,16 @@
 [
 {
+  "id":"1",
   "hammer":{
      "Name":"hammer",
-      "Bearish":"Bearish"
+     "Bearish":"Bearish"
   }
 },
 {
+  "id":"2",
   "Inverted":{
    "Name":"hammer",
-      "Bearish":"Bearish"
+    "Bearish":"Bearish"
   } 
 }
 ]
