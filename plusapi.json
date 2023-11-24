@@ -1,6 +1,30 @@
 [
   {
-     "Id":"1",
-      "Link":"http://samples.leanpub.com/thereactnativebook-sample.pdf"
+      "Id":"1",
+      "Name":"Hammer Candlestick",
+      "Features":"Features",
+      "Forecast":"Forecast: Bullish Reversal",
+      "Trend":"Trend prior to the pattern: downtrend",
+      "Opposite":"Opposite pattern: Hanging Man Candlestick",
+      "Image1":"",
+      "Heading1":"What is Hammer Candlestick",
+      "Part1":"",
+      "Part2":"",
+      "Part3":"",
+      "Heading2":"Trade with Hammer Candlestick",
+      "Image2":"",
+      "Sub1":"",
+      "Sub2":"",
+      "Sub3:"",
+      "Sub4":"",
+      "KeyPoints":"KeyPoints",
+      "Point1":"",
+      "Point2":"",
+      "Point3":"",
+      "Point4":"",
+      "Point5":"",
+      "Point6":"",
+      "Point7":"",
+      "Point8":""
   }
 ]
