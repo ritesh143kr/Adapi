@@ -1,29 +1,9 @@
 [
   {
       "Id":"1",
-      "Name":" ",
-      "Features":" ",
-      "Forecast":" ",
-      "Trend":" ",
-      "Opposite":" ",
-      "Image1":" ",
-      "Heading1":" ",
-      "Part1":" ",
-      "Part2":"Coming Soon....",
-      "Part3":" ",
-      "Heading2":" ",
-      "Image2":" ",
-      "Sub1":" ",
-      "Sub2":" ",
-      "Sub3":" ",
-      "Sub4":" ",
-      "KeyPoints":" ",
-      "Point1":" ",
-      "Point2":" ",
-      "Point3":" ",
-      "Point4":" ",
-      "Point5":" ",
-      "Point6":" ",
-      "Point7":""
-  }
+      "Body":"This is for demo uses only please visit second page"
+  },
+{
+  "Id":"2",
+  "Body":"This is second page and you are come here from first page" 
 ]
