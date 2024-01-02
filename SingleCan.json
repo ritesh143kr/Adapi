@@ -1,13 +1,8 @@
 [
 {
-    "userId": 1,
     "id": "1",
-    "name": "Thapa Techical",
-    "email": "thapa@technical.com",
-    "website": "https://www.youtube.com/thapatechnical",
-    "mobile": "1234567899",
-    "image": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-    "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+    "name": "Hammer Candlestick",
+    
 },
 {
     "userId": 2,
