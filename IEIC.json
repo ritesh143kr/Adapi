@@ -1,15 +1,60 @@
 [
 {
       "Id":"1",
-      "Name":"Introduction"
+      "Name":"Introduction",
+      "Heading1":"Fundamental Analysis",
+      "Text1":"",
+      "Image1":"",
+      "Heading2":"",
+      "Text2":"",
+      "Heading3":"",
+      "Text3":"",
+      "Heading4":"",
+      "Text4":"",
+      "Heading5":"",
+      "Text5":"",
+      "Heading6":"",
+      "Text6":"",
+      "Heading7":"",
+      "Text7":""
     
 },
 {
       "Id":"2",
-      "Name":"Fundamental Analysis V/s Technical Analysis"
+      "Name":"Fundamental Analysis V/s Technical Analysis",
+      "Heading1":"Fundamental Analysis",
+      "Text1":"",
+      "Image1":"",
+      "Heading2":"",
+      "Text2":"",
+      "Heading3":"",
+      "Text3":"",
+      "Heading4":"",
+      "Text4":"",
+      "Heading5":"",
+      "Text5":"",
+      "Heading6":"",
+      "Text6":"",
+      "Heading7":"",
+      "Text7":""
 },
 {
       "Id":"3",
-      "Name":"EIC Analysis"
+      "Name":"EIC Analysis",
+      "Heading1":"Fundamental Analysis",
+      "Text1":"",
+      "Image1":"",
+      "Heading2":"",
+      "Text2":"",
+      "Heading3":"",
+      "Text3":"",
+      "Heading4":"",
+      "Text4":"",
+      "Heading5":"",
+      "Text5":"",
+      "Heading6":"",
+      "Text6":"",
+      "Heading7":"",
+      "Text7":""
 }     
 ]
