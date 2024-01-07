@@ -37,10 +37,10 @@
 {
       "Id":"2",
       "Name":"Fundamental Analysis V/s Technical Analysis",
-      "Text1":"FA V/s TA",
+      "Text1":"FA V/s TA \n",
       "bold1":"bold",
       "bold2":"",
-      "Para1":"Fundamental analysis:-  It is a method of evaluating a intrinsic value of financial asset like a stock or a bond by analyzing various economic, financial, and qualitative factors.\n\n\nTechnical Analysis:-   is a tool by which we can predict or forecast the future price of stock, commodity, cryptocurrencies and other securities",
+      "Para1":"Fundamental analysis:-  It is a method of evaluating a intrinsic value of financial asset like a stock or a bond by analyzing various economic, financial, and qualitative factors.\n\n\nTechnical Analysis:-  It is a tool by which we can predict or forecast the future price of stock, commodity, cryptocurrencies and other securities",
       "Image1":"",
       "Text2":"",
       "bold3":"",
