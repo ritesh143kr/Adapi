@@ -12,5 +12,9 @@
 ![Candlestick (42)](https://github.com/ritesh143kr/Adapi/assets/127919799/56712770-b55b-4748-8063-82f13a4f7444)
 ![Candlestick (43)](https://github.com/ritesh143kr/Adapi/assets/127919799/4def9391-30ee-4ba3-be71-a4306c4eba4d)
 ![Candlestick (44)](https://github.com/ritesh143kr/Adapi/assets/127919799/7637403d-5397-43cb-9cf3-2a6ab7fccbe4)
+![Candlestick (45)](https://github.com/ritesh143kr/Adapi/assets/127919799/cbd0a2dc-e44d-4612-9189-7b45369f9191)
+![Candlestick (46)](https://github.com/ritesh143kr/Adapi/assets/127919799/08271faa-635c-43c3-b001-bb016925ba89)
+![Candlestick (47)](https://github.com/ritesh143kr/Adapi/assets/127919799/ba5b5924-5db9-4ffe-b6f7-42ddc6c44d04)
+![Candlestick (48)](https://github.com/ritesh143kr/Adapi/assets/127919799/0ca05244-23e2-43ec-9ffe-ff5fb427ecbb)
 
 
