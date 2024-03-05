@@ -16,6 +16,7 @@
 ![Candlestick (46)](https://github.com/ritesh143kr/Adapi/assets/127919799/08271faa-635c-43c3-b001-bb016925ba89)
 ![Candlestick (47)](https://github.com/ritesh143kr/Adapi/assets/127919799/ba5b5924-5db9-4ffe-b6f7-42ddc6c44d04)
 ![Candlestick (48)](https://github.com/ritesh143kr/Adapi/assets/127919799/0ca05244-23e2-43ec-9ffe-ff5fb427ecbb)
-![Process Roadmap Diagram Infographic Graph (1)](https://github.com/ritesh143kr/Adapi/assets/127919799/57ce4193-8b1b-47ea-9bdf-23ae2567daf3)
+![Process Roadmap Diagram Infographic Graph (2)](https://github.com/ritesh143kr/Adapi/assets/127919799/f12048de-dfed-443e-9b1b-f508ce1b30fb)
+
 
 
